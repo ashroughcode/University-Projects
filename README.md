@@ -1,2 +1,2 @@
-# University-Projects
-My projects are here
+# SmashTheBlock
+C++ project using a library called iGraphics, designed for creating 2D graphical applications.
